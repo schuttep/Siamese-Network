@@ -40,7 +40,3 @@ Key features:
 
 ---
 
-## 📷 Sample Visualization
-
-> _If you generated an embedding plot, drop it in the repo and embed it here._
-
